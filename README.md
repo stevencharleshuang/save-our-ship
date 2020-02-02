@@ -8,9 +8,15 @@ Save Our Ship, a game about repairing a ship with keystrokes. You take on the ro
 
 ---
 
+## Platforms
+
+* Mac OS
+
+---
 ## Installation Instructions
 
-Double click the build file and press play 
+* Unzip the Save Our Ship archive in the Release folder
+* Double click the unzipped GameJam2020.app file
 
 ---
 
