@@ -13,9 +13,14 @@ Save Our Ship, a game about repairing a ship with keystrokes. You take on the ro
 * Mac OS
 
 ---
+
+## Optimum Screen Resolution
+2560 x 1600
+
+---
 ## Installation Instructions
 
-* Unzip the Save Our Ship archive in the Release folder
+* Unzip the GameJam2020.zip archive in the Release folder
 * Double click the unzipped GameJam2020.app file
 
 ---
